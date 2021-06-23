@@ -1,0 +1,26 @@
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\bin\Debug\Common.dll
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\bin\Debug\Common.pdb
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\obj\Debug\Common.dll
+C:\Users\danieladc\source\repos\MultiplayerServer\Common\obj\Debug\Common.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\bin\Debug\Common.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\bin\Debug\Common.pdb
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\obj\Debug\Common.dll
+C:\Users\danieladc\Desktop\PJR\PJR1819\MultiplayerUnity_v0\MultiplayerServer\Common\obj\Debug\Common.pdb
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\bin\Debug\Common.dll
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\bin\Debug\Common.pdb
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\bin\Debug\Newtonsoft.Json.dll
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\bin\Debug\Newtonsoft.Json.xml
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\obj\Debug\Common.csprojAssemblyReference.cache
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\obj\Debug\Common.csproj.CopyComplete
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\obj\Debug\Common.dll
+C:\Users\João\Desktop\IPCA\3º ano (2020-2021)\1º semestre\Programação de Jogos em Rede\Trabalho Prático\MultiplayerServer\Common\obj\Debug\Common.pdb
