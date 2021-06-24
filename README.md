@@ -2,7 +2,7 @@
 
 <img src = "https://github.com/joao13soares/RGB_Co-opPuzzle_Unity/blob/main/RGB_Co-opPuzzle.png" width = "1000">
 
-RGB Co-op Puzzle game made in Unity, as a project for the Network Games Programming university course.
+RGB Co-op Puzzle is a game made in Unity, as a project for the Network Games Programming university course.
 
 The goal of this project was to implement a Multiplayer game in Unity, using .NET Framework.
 I decided to develop a Co-op Puzzle game based on color states.
